@@ -1,0 +1,28 @@
+name: PeaceQueen
+favicon: null
+layout_spectrum: 0.1265827000606805
+typography_spectrum: 0.9195952629670501
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6335853494238108
+  lightness: 0.5804018632043153
+  saturation: 0.7995363173540682
+  rhythmicContrast: 0.9740574571769685
+purpose: []

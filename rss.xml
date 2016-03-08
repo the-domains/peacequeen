@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PeaceQueen]]></title>
         <description><![CDATA[PeaceQueen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/peacequeen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 18:39:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 04:52:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/peacequeen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Do I say something? Or do I just let it pass me by? Do I acknowledge the moment? Or do I just say, nahhhh. Not me. Not this time. </p>]]></description>
+            <link>https://thegrid.ai/peacequeen/9833d49c-1f19-4c68-a3bb-331813ddb395/index.html</link>
+            <guid isPermaLink="false">9833d49c-1f19-4c68-a3bb-331813ddb395</guid>
+            <pubDate>Tue, 08 Mar 2016 04:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>From every angle, all perspectives. </p>]]></description>
-            <link>undefinedfbfa0917-aff5-47cd-b109-6a1de83eefca/index.html</link>
+            <link>https://thegrid.ai/peacequeen/fbfa0917-aff5-47cd-b109-6a1de83eefca/index.html</link>
             <guid isPermaLink="false">fbfa0917-aff5-47cd-b109-6a1de83eefca</guid>
             <pubDate>Mon, 29 Feb 2016 18:39:26 GMT</pubDate>
         </item>
